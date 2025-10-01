@@ -39,6 +39,7 @@ Compiled firmware files and VIA/Vial keybinding exports for multiple custom keyb
 | Vendor | Model | Firmware origin | VIA/Vial | Notes |
 |-------:|:-----:|:----------------|:--------:|:------|
 | ramaworks | U80 | wilba-tech | VIA | [keymap](keyboards/ramaworks/U80/keymaps/via/2025-08-10_ph.json), [firmware](keyboards/ramaworks/U80/firmware/2025-08-10_ramaworks-U80_wilba-tech_via.hex), [notes](keyboards/ramaworks/U80/docs/notes.md) |
+| qwertykeys | Neo75 Cu | vendor stock | VIA | [keymap](keyboards/qwertykeys/Neo75-Cu/keymaps/via/2025-10-01_default.json), [firmware](keyboards/qwertykeys/Neo75-Cu/firmware/), [notes](keyboards/qwertykeys/Neo75-Cu/docs/notes.md) |
 
 ## Optional validation
 
